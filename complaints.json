@@ -1,0 +1,18 @@
+[
+  {
+    "id": "C1786901200153",
+    "category": "Electricity",
+    "description": "Hostel room me fan kaam nahi kar raha",
+    "location": "Room 205",
+    "status": "Resolved",
+    "supportCount": 1
+  },
+  {
+    "id": "C1787116802302",
+    "category": "Water",
+    "description": "Hostel bathroom me water supply nahi aa rahi",
+    "location": "Block A, Room 210",
+    "status": "Pending",
+    "supportCount": 0
+  }
+]

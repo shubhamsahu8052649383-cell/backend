@@ -1,0 +1,11 @@
+###
+
+POST http://localhost:5000/api/complaint
+Content-Type: application/json
+
+{
+    "category": "Water",
+    "description": "Hostel bathroom me water supply nahi aa rahi",
+    "location": "Block A, Room 210"
+}
+
